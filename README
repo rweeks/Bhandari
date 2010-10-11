@@ -1,0 +1,13 @@
+This project contains an implementation of Bhandari's Algorithm for
+edge-disjoint shortest pair routing. 
+
+Based on the book:
+Survivable Networks: Algorithms for Diverse Routing
+Ramesh Bhandari
+ISBN: 0-7923-8381-8
+
+All work in this project is licensed under the GNU Lesser General Public License,
+which is available here:
+
+http://www.gnu.org/licenses/lgpl-3.0.txt
+
